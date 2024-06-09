@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm an Android developer passionate about creating
 ### [Project: Dreamer](https://github.com/darkryh/Dreamer)
 An Anime App powered by Android Studio, featuring Firebase, Retrofit, Dagger Hilt, Work Manager, ExoPlayer, DataStore, Jsoup, Room, Google Cast Framework, Ktor Server, Coil, and Kotlin. Watch your favorite animes anytime, anywhere. Dive into a world of animated dreams! 
 
-### [Library: NoMoreAdsOnMyWebView](https://github.com/darkryh/NoMoreAdsOnMyWebViewPlayer)
+### [Library: NoMoreAdsOnMyWebViewPlayer](https://github.com/darkryh/NoMoreAdsOnMyWebViewPlayer)
 It's an Android Library that permit custom properties and remove ads from embed websites using WebView
 
 ### [Library: MoonGetter](https://github.com/darkryh/MoonGetter)
