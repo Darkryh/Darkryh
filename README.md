@@ -32,7 +32,7 @@ An Anime App powered by Android Studio, featuring Firebase, Retrofit, Dagger Hil
 It's an Android Library that permit custom properties and remove ads from embed websites using WebView
 
 ### [Library: MoonGetter](https://github.com/darkryh/MoonGetter)
-MoonGetter is an Android library for handling stream extraction and downloads.
+MoonGetter is an Android library for handling stream extraction and downloads, from video holder sites.
 
 ## 🤝 Connect with Me
 
